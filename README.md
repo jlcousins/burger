@@ -12,7 +12,7 @@ Select a burger you would like to Devour from the "Up for grabs!".
 Burger will be moved to the " Devoured!" section of the page
 
 Demo
-The demo of the burger eating application can be found here.
+The demo of the burger eating application can be found here https://secure-garden-29743.herokuapp.com/.
 
 
 
